@@ -15,6 +15,8 @@
 
 خامسا يمكنك اضافة خزنه تبديل ملابس للعصابات وكل هذي المميزات لا داعي للتعديل على الكلاينت يتم التعديل عن طريق الكونفق
 
+يتوافق مع نظامين ox_target and qb-target
+
 
 Comprehensive Gang System Script
 
@@ -31,3 +33,5 @@ Storage Management: You can control the size of each gang's storage and the numb
 Clothing Exchange Storage: You can add a clothing exchange storage for gangs.
 
 All these features can be configured via the config file without needing to modify the client.
+
+This is compatible with both ox_target and qb-target systems.
